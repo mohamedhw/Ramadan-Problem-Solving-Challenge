@@ -4,7 +4,7 @@ Welcome to the **Ramadan Problem Solving Challenge**!🌛 This is a 30-day chall
 
 ## 🌟 How It Works
 
-- Each day of Ramadan, a new folder (`Day-1`, `Day-2`, etc.) will be added to the repository.
+- Each day of Ramadan, a new folder (Day-1, Day-2, etc.) will be added to the repository at 12:00 AM.
 - Each folder contains:
   - **Problem statement** (link to the problem or description)
   - **Hints** (optional guidance to approach the problem)
