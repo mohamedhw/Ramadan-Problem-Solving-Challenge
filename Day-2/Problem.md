@@ -1,4 +1,4 @@
-## 📌 Day 1 Challenge
+## 📌 Day 2 Challenge
 ### Problem Statement
 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 

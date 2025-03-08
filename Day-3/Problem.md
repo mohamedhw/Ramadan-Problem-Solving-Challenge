@@ -1,4 +1,4 @@
-## 📌 Day 1 Challenge
+## 📌 Day 3 Challenge
 ### Problem Statement
 [Merge sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 

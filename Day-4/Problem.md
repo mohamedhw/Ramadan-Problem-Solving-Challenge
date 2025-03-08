@@ -1,4 +1,4 @@
-## 📌 Day 1 Challenge
+## 📌 Day 4 Challenge
 ### Problem Statement
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 

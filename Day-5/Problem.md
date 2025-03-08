@@ -1,4 +1,4 @@
-## 📌 Day 1 Challenge
+## 📌 Day 5 Challenge
 ### Problem Statement
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 

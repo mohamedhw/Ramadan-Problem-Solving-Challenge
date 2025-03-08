@@ -1,4 +1,4 @@
-## 📌 Day 1 Challenge
+## 📌 Day 6 Challenge
 ### Problem Statement
 [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 
